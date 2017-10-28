@@ -1,4 +1,4 @@
-# Migo
+# migo
 This is a Plymouth theme created for Ubuntu 16.04 (can be also used in other Linux Distributions).
 
 [![Video](https://4.bp.blogspot.com/-gG0MBGjEE9M/WBYXrOGrVGI/AAAAAAAABVE/auGpLRYf7jor4hu3jurYGcjaVBapHyAVACLcB/s320/8998adc40112985a8f29cf414925d390.gif)](https://www.youtube.com/watch?v=c6f478VBhtE)
@@ -14,11 +14,11 @@ This is a Plymouth theme created for Ubuntu 16.04 (can be also used in other Lin
 
 Clone this repository.
 
-    sudo git clone https://github.com/sudorama/Migo.git
+    sudo git clone https://github.com/sudorama/migo.git
     
 Install the theme.
 
-    sudo update-alternatives --install /usr/share/plymouth/themes/default.plymouth default.plymouth /usr/share/plymouth/themes/Migo/migo.plymouth 100
+    sudo update-alternatives --install /usr/share/plymouth/themes/default.plymouth default.plymouth /usr/share/plymouth/themes/migo/migo.plymouth 100
 
 Select the default theme.
 

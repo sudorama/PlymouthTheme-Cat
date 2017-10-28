@@ -4,5 +4,5 @@ Description=This is a Plymouth theme with a cat animation.
 ModuleName=script
 
 [script]
-ImageDir=/usr/share/plymouth/themes/Migo
-ScriptFile=/usr/share/plymouth/themes/Migo/migo.script
+ImageDir=/usr/share/plymouth/themes/migo
+ScriptFile=/usr/share/plymouth/themes/migo/migo.script
